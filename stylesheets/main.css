@@ -3,23 +3,25 @@ body
 
 	background-image:url(../images/cubed.png);
 	background-repeat;
-	font-family: Arial, Lucida Console, sans-serif;
 	}
 	
 .everypage{
 	width:1000px;
 	padding:10px;
 	margin:50px;
-	background-image:url('solana.jpg');
+
 
 	}
 
 
-
+	
+	
 .themeboxcolor{
 	background: #C0C0C0;
 	color: #303030;
 	font-size:20px;
+	border-style:dashed;
+	border-width:2px;
 	}
 	
 
